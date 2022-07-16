@@ -64,7 +64,7 @@ ImageId,Object,WKT_Pix,Flooded,length_m,travel_time_s
 
 ## ダウンロード
 
-入力ファイルは、AWSバケットのspacenet-datasetからダウンロードすることができます。AWS S3バケットに保存されたデータにアクセスするためのアカウントを設定する方法の詳細については、このガイドを参照してください。
+入力ファイルは、AWSバケットのspacenet-datasetからダウンロードすることができます。AWS S3バケットに保存されたデータにアクセスするためのアカウントを設定する方法の詳細については、[このガイド](https://docs.google.com/document/d/1JwRfrGQKedHRYmhlZD45cndiKSNIStegxEOd8qg5tV0/edit)を参照してください。
 
 同じバケットには、以前のSpaceNetチャレンジのデータも保存されています。このチャレンジでは、バケットコンテンツのサブセット（spacenet/SN8_floodsディレクトリのファイル）のみが必要ですが、建物や道路データなど、以前のSpaceNetデータセットは必要に応じて追加のトレーニングに使用することが可能です。
 
